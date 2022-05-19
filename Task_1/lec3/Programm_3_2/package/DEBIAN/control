@@ -1,0 +1,10 @@
+Package: programm32
+Version: 1.0
+Section: unknown
+Priority: optional
+Depends: libc6
+Architecture: amd64
+Essential: no
+Installed-Size: 12
+Maintainer: Tsytsora Daniil <danis16119@gmail.com>
+Description: programm32
