@@ -1,2 +1,2 @@
-# BashScripts
-Scripts in university
+# BashScripts ❤
+★Scripts in university★
